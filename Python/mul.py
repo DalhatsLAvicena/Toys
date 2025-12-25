@@ -1,4 +1,3 @@
-#!/usr/bin/Python3
 import sys
 
 # A command to multiply two numbers
