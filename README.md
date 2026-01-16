@@ -1,2 +1,2 @@
 # Toys
-A collection of small simple programs I made when I'm bored, from Bash one-liners to Python script and Jupyter Notebooks, sorted by language.
+A collection of scripts and one-liners to automate boring stuffs with some context of its use-cases.
